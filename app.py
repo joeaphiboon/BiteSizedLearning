@@ -1,5 +1,5 @@
 import streamlit as st
-import groq
+from groq import Groq
 import json
 from datetime import datetime
 import random
